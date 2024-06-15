@@ -3,7 +3,7 @@ import java.awt.*;
 
 /**
  *
- * @author Dimas
+ * @author Piky 
  */
 
 public class Layout_Kalkulator {
